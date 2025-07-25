@@ -26,6 +26,7 @@ h1{
 
 /*NAV BAR*/
 
+
 nav{
     width:60%;
 }
@@ -244,3 +245,27 @@ body{
     margin: 120px auto; 
     
 }
+
+
+.title {
+  text-align: center;
+  margin-bottom: 10px;
+  font-family: Wittgenstein;
+  font-size: 35px;
+}
+
+.label {
+ 
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 1px solid #8d8d8d;
+  border-radius: 4px;
+
+}
+
+
