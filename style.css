@@ -192,6 +192,13 @@ body{
    gap:10px;
    font-size: 24px;
    font-family: 'wittgenstein';
+   transition: color 0.3s ease;
+}
+
+.img-bttn button:hover{
+  color: white;
+  box-shadow: 0 4px 10px rgba(49, 49, 49, 0.3);
+  color:#836635;
 }
 
 /*Stanga*/
